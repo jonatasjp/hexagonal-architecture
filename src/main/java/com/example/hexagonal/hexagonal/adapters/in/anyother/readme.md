@@ -1,0 +1,1 @@
+Aqui pode conter qualquer outro adapter de entrada para o sistema

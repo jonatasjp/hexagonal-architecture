@@ -1,0 +1,1 @@
+Aqui pode conter qualquer outro adapter de saída do o sistema, como por exemplo a saída para um sistema de fila com rabbitMQ, sqs, ou um kafka, ou até mesmo uma integração com um outro sistema via Rest por exemplo.
