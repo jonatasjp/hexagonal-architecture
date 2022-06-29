@@ -1,1 +1,1 @@
-Aqui pode conter qualquer outro domínio, como por exemplo professor, nessa ponto podemos nos basear no DDD para implementação do domain por completo
+Aqui pode conter qualquer outro domínio, como por exemplo professor, nesse ponto podemos nos basear no DDD para implementação do domain por completo
